@@ -2,7 +2,9 @@
 
 # REST API для сервиса управления заметками
 Проект написан на Django REST Framework 3.15.2 (все остальные библиотеки лежат в requirements.txt)
+
 Версия Python 3.10.6
+
 ОС Windows 10
 
 

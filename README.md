@@ -1,4 +1,4 @@
-# RESTful_API_notes-
+# RESTful_API_notes
 
 # REST API для сервиса управления заметками
 Проект написан на Django REST Framework 3.15.2 (все остальные библиотеки лежат в requirements.txt)
